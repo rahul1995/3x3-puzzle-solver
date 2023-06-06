@@ -1,0 +1,2 @@
+tabs: ["main.cpp"]
+run-button: g++ main.cpp -o main.out && ./main.out < input.txt > output.txt
